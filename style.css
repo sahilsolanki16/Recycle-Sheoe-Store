@@ -1,0 +1,649 @@
+.img1 {
+  background-image: url(img/1.jpg);
+  background-position: center;
+  background-size: cover;
+
+}
+
+
+.img15 {
+  background-image: url(img/15.jpg);
+  background-position: center;
+  background-size: cover;
+
+}
+
+.img16 {
+  background-image: url(img/16.jpg);
+  background-position: center;
+  background-size: cover;
+
+}
+
+
+.img26 {
+  background-image: url(img/26.jpg);
+  background-position: center;
+  background-size: cover;
+
+}
+
+.img31 {
+  background-image: url(img/31.jpg);
+  background-position: center;
+  background-size: cover;
+
+}
+
+
+.img32 {
+  background-image: url(img/32.jpg);
+  background-position: center;
+  background-size: cover;
+
+}
+
+.ff-1 {
+  font-family: "Rubik", sans-serif;
+}
+
+
+.td-none {
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fs1 {
+  font-size: 1px;
+}
+
+.fs2 {
+  font-size: 2px;
+}
+
+.fs3 {
+  font-size: 3px;
+}
+
+.fs4 {
+  font-size: 4px;
+}
+
+.fs5 {
+  font-size: 5px;
+}
+
+.fs6 {
+  font-size: 6px;
+}
+
+.fs7 {
+  font-size: 7px;
+}
+
+.fs8 {
+  font-size: 8px;
+}
+
+.fs9 {
+  font-size: 9px;
+}
+
+.fs10 {
+  font-size: 10px;
+}
+
+.fs11 {
+  font-size: 11px;
+}
+
+.fs12 {
+  font-size: 12px;
+}
+
+.fs13 {
+  font-size: 13px;
+}
+
+.fs14 {
+  font-size: 14px;
+}
+
+.fs15 {
+  font-size: 15px;
+}
+
+.fs16 {
+  font-size: 16px;
+}
+
+.fs17 {
+  font-size: 17px;
+}
+
+.fs18 {
+  font-size: 18px;
+}
+
+.fs19 {
+  font-size: 19px;
+}
+
+.fs20 {
+  font-size: 20px;
+}
+
+.fs21 {
+  font-size: 21px;
+}
+
+.fs22 {
+  font-size: 22px;
+}
+
+.fs23 {
+  font-size: 23px;
+}
+
+.fs24 {
+  font-size: 24px;
+}
+
+.fs25 {
+  font-size: 25px;
+}
+
+.fs26 {
+  font-size: 26px;
+}
+
+.fs27 {
+  font-size: 27px;
+}
+
+.fs28 {
+  font-size: 28px;
+}
+
+.fs29 {
+  font-size: 29px;
+}
+
+.fs30 {
+  font-size: 30px;
+}
+
+.fs31 {
+  font-size: 31px;
+}
+
+.fs32 {
+  font-size: 32px;
+}
+
+.fs33 {
+  font-size: 33px;
+}
+
+.fs34 {
+  font-size: 34px;
+}
+
+.fs35 {
+  font-size: 35px;
+}
+
+.fs36 {
+  font-size: 36px;
+}
+
+.fs37 {
+  font-size: 37px;
+}
+
+.fs38 {
+  font-size: 38px;
+}
+
+.fs39 {
+  font-size: 39px;
+}
+
+.fs40 {
+  font-size: 40px;
+}
+
+.fs41 {
+  font-size: 41px;
+}
+
+.fs42 {
+  font-size: 42px;
+}
+
+.fs43 {
+  font-size: 43px;
+}
+
+.fs44 {
+  font-size: 44px;
+}
+
+.fs45 {
+  font-size: 45px;
+}
+
+.fs46 {
+  font-size: 46px;
+}
+
+.fs47 {
+  font-size: 47px;
+}
+
+.fs48 {
+  font-size: 48px;
+}
+
+.fs49 {
+  font-size: 49px;
+}
+
+.fs50 {
+  font-size: 50px;
+}
+
+
+
+
+
+/* margin top class */
+.mt1 {
+  margin-top: 1px;
+}
+
+.mt2 {
+  margin-top: 2px;
+}
+
+.mt3 {
+  margin-top: 3px;
+}
+
+.mt4 {
+  margin-top: 4px;
+}
+
+.mt5 {
+  margin-top: 5px;
+}
+
+.mt6 {
+  margin-top: 6px;
+}
+
+.mt7 {
+  margin-top: 7px;
+}
+
+.mt8 {
+  margin-top: 8px;
+}
+
+.mt9 {
+  margin-top: 9px;
+}
+
+.mt10 {
+  margin-top: 10px;
+}
+
+.mt11 {
+  margin-top: 11px;
+}
+
+.mt12 {
+  margin-top: 12px;
+}
+
+.mt13 {
+  margin-top: 13px;
+}
+
+.mt14 {
+  margin-top: 14px;
+}
+
+.mt15 {
+  margin-top: 15px;
+}
+
+.mt16 {
+  margin-top: 16px;
+}
+
+.mt17 {
+  margin-top: 17px;
+}
+
+.mt18 {
+  margin-top: 18px;
+}
+
+.mt19 {
+  margin-top: 19px;
+}
+
+.mt20 {
+  margin-top: 20px;
+}
+
+.mt21 {
+  margin-top: 21px;
+}
+
+.mt22 {
+  margin-top: 22px;
+}
+
+.mt23 {
+  margin-top: 23px;
+}
+
+.mt24 {
+  margin-top: 24px;
+}
+
+.mt25 {
+  margin-top: 25px;
+}
+
+.mt26 {
+  margin-top: 26px;
+}
+
+.mt27 {
+  margin-top: 27px;
+}
+
+.mt28 {
+  margin-top: 28px;
+}
+
+.mt29 {
+  margin-top: 29px;
+}
+
+.mt30 {
+  margin-top: 30px;
+}
+
+.mt31 {
+  margin-top: 31px;
+}
+
+.mt32 {
+  margin-top: 32px;
+}
+
+.mt33 {
+  margin-top: 33px;
+}
+
+.mt34 {
+  margin-top: 34px;
+}
+
+.mt35 {
+  margin-top: 35px;
+}
+
+.mt36 {
+  margin-top: 36px;
+}
+
+.mt37 {
+  margin-top: 37px;
+}
+
+.mt38 {
+  margin-top: 38px;
+}
+
+.mt39 {
+  margin-top: 39px;
+}
+
+.mt40 {
+  margin-top: 40px;
+}
+
+.mt41 {
+  margin-top: 41px;
+}
+
+.mt42 {
+  margin-top: 42px;
+}
+
+.mt43 {
+  margin-top: 43px;
+}
+
+.mt44 {
+  margin-top: 44px;
+}
+
+.mt45 {
+  margin-top: 45px;
+}
+
+.mt46 {
+  margin-top: 46px;
+}
+
+.mt47 {
+  margin-top: 47px;
+}
+
+.mt48 {
+  margin-top: 48px;
+}
+
+.mt49 {
+  margin-top: 49px;
+}
+
+.mt50 {
+  margin-top: 50px;
+}
+
+
+
+/* hover classes */
+
+.btn-bw:hover {
+  background: #262b2c;
+  color: white;
+}
+
+
+
+
+
+
+/* text-color classes */
+.cw {
+  color: white;
+}
+
+.cs {
+  color: hwb(0deg 58.54% 39.37%)
+}
+
+.co {
+  color: #f9bb44;
+}
+
+.cy {
+  color: #f6aa28;
+}
+
+.cdg {
+  color: #6e7051;
+}
+
+
+
+
+/* background color */
+
+.bg-cy {
+  background-color: #f6aa28;
+}
+
+.bg-ow {
+  background: #f1f1ef;
+}
+
+.bg-dg {
+  background: #6e7051;
+}
+
+.bg-none {
+  background: #00000000;
+}
+
+/* border styele */
+
+.border-b {
+  border-bottom: 2px solid;
+}
+
+.border-y {
+  border-bottom: 2px solid #f6aa28;
+}
+
+.border-rd {
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+}
+
+.border-g {
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  border: 2px solid #6e7051;
+}
+
+.border-w {
+  border: 2px solid white;
+}
+
+.b-dotted {
+  border: 2px dotted black;
+}
+
+
+/* border hover classes */
+.cdb {
+  background-color: white;
+  color: white;
+}
+
+
+
+
+.cdb:hover {
+  background: black;
+  color: white;
+}
+
+.border-db:hover {
+  border-bottom: 2px solid black;
+  transition: 2s;
+}
+.cwb{ background: transparent;color: white;
+transition: 1s;}
+.cwb:hover {
+  background: white;
+  color: black;
+  transition: 1s;
+}
+
+
+.bs { border: 1px solid silver;}
+
+.h{height: 85px;}
+
+
+.cyh:hover {
+  color: #f6aa28;
+}
+
+.ls {
+  letter-spacing: 2px;
+}
+
+.cb:hover {
+  color: black;
+  transition: 1s;
+}
+
+.cbb {
+  color: black;
+}
+
+.cdgh:hover {
+  background: #6e7051;
+  color: #f1f1ef;
+
+}
+
+.cbg:hover {
+  background: black;
+  color: white;
+  transition: 1s;
+} 
+.b1 { border-right: 1px solid silver;}
+
+.h100{height: 250px;}
+
+.h80{height: 80px;}
+.f{font-size: 25px;}
+
+@media(max-width:500px){
+  .h100{height: 70px;}
+  .b1 {border-right: 0px;}
+  .f {font-size: 20px;}
+
+}
+
+
+
+
+
